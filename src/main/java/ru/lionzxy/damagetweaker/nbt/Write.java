@@ -13,7 +13,7 @@ import java.util.List;
  * Created by LionZXY on 23.02.2016.
  * DamageTweaker
  */
-@ZenClass("mods.MTUtilsWrite")
+@ZenClass("mods.MTUtils.NBT")
 public class Write {
 
 
