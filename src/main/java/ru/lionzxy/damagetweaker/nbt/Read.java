@@ -12,7 +12,7 @@ import java.util.Map;
  * Created by LionZXY on 23.02.2016.
  * DamageTweaker
  */
-@ZenClass("mods.MTUtilsRead")
+@ZenClass("mods.MTUtils.NBT")
 public class Read {
 
     @ZenMethod
